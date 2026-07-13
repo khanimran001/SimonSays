@@ -10,7 +10,7 @@ A fun and interactive memory game built using **HTML, CSS, and JavaScript**. The
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link-here
+🔗 https://khanimran001.github.io/SimonSays/
 
 ## 📂 GitHub Repository
 
